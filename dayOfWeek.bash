@@ -1,5 +1,5 @@
 #!/bin/bash
-# day.bash
+# dayOfWeek.bash
 # 입력 : 2021년 하루의 월(month)와 일(day)
 # 출력 : 해당일의 요일
 # 정보 : 2021.12.31 목요일
